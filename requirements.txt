@@ -1,0 +1,9 @@
+python-dotenv
+requests
+pandas
+numpy
+yfinance
+feedparser
+beautifulsoup4
+lxml
+pytest
